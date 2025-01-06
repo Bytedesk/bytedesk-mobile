@@ -29,3 +29,6 @@ pubspec_overrides.yaml
 pubspec.lock
 .DS_Store
 *.log
+key.properties
+signed-key
+upload-keystore.jks
