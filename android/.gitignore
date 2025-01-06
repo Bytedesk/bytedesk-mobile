@@ -11,3 +11,7 @@ GeneratedPluginRegistrant.java
 # key.properties
 # **/*.keystore
 # **/*.jks
+key.properties
+signed-key
+upload-keystore.jks
+readme.md
