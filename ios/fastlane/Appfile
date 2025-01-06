@@ -1,0 +1,8 @@
+app_identifier("com.kefux.im") # The bundle identifier of your app
+apple_id("270580156@qq.com") # Your Apple Developer Portal username
+
+itc_team_id("2074095") # App Store Connect Team ID
+team_id("L5F47963M2") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

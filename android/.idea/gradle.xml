@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$USER_HOME$/flutter/packages/flutter_tools/gradle" name="gradle">
+                <projects>
+                  <project path="$USER_HOME$/flutter/packages/flutter_tools/gradle" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/audio_session-0.1.21/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/camera_android-0.10.9+16/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/connectivity_plus-6.1.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/device_info_plus-10.1.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_keyboard_visibility-6.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_local_notifications-18.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_native_splash-2.4.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-2.0.23/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_sound-9.17.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-8.2.8/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_gallery_saver-2.0.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/image_picker_android-0.8.12+18/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/just_audio-0.9.42/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/mobile_scanner-6.0.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/package_info-2.0.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/package_info_plus-8.1.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_provider_android-2.2.14/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_android-12.0.13/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/photo_manager-3.6.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/push_android-0.6.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/quick_actions_android-1.0.18/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/sensors_plus-5.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/share_handler_android-0.0.9/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/share_plus-10.1.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_android-2.3.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/sqflite_android-2.4.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_android-6.3.14/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/video_player_android-2.7.16/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wakelock_plus-1.2.8/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter_android-3.16.9/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../import/flutter_plugin_record_plus/android" />
+            <option value="$PROJECT_DIR$/../../../packages/bytedesk_common/android" />
+            <option value="$PROJECT_DIR$/../../../packages/bytedesk_kefu/android" />
+            <option value="$PROJECT_DIR$/../../../packages/bytedesk_push/android" />
+            <option value="$USER_HOME$/flutter/packages/flutter_tools/gradle" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

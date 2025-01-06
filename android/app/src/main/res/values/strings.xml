@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">微语</string>
+
+    <string name="bytedesk_login">登录</string>
+    <string name="bytedesk_logining">登录中...</string>
+    <string name="bytedesk_logouting">登出中...</string>
+    <string name="bytedesk_loading">加载中...</string>
+    <string name="bytedesk_paying">续期中...</string>
+    <string name="bytedesk_wechat_login">微信登录</string>
+
+    <string name="bytedesk_subdomain">企业号(可选)</string>
+    <string name="bytedesk_username">用户名或邮箱(必填)</string>
+    <string name="bytedesk_password">密码(必填)</string>
+
+    <string name="bytedesk_register">注册</string>
+    <string name="bytedesk_registering">注册中...</string>
+
+    <string name="bytedesk_self_server">自定义服务器</string>
+
+    <string name="bytedesk_home">萝卜丝</string>
+    <string name="bytedesk_queue">队列</string>
+    <string name="bytedesk_contact">通讯录</string>
+    <string name="bytedesk_select">建群</string>
+    <string name="bytedesk_discovery">发现</string>
+    <string name="bytedesk_setting">设置</string>
+    <string name="bytedesk_mine">我的</string>
+    <string name="bytedesk_setting_notification">新消息通知</string>
+    <string name="bytedesk_ok">确定</string>
+
+    <string name="bytedesk_history">历史会话</string>
+    <string name="bytedesk_todotask">待办任务</string>
+    <string name="bytedesk_blocklist">黑名单</string>
+    <string name="bytedesk_block_cancel">取消拉黑</string>
+    <string name="bytedesk_leavemsg_list">留言</string>
+    <string name="bytedesk_feedbacklist">意见反馈</string>
+    <string name="bytedesk_ticketlist">我的工单</string>
+    <string name="bytedesk_autoreply_custom">自定义回复</string>
+    <string name="bytedesk_autoreply_history">自定义历史</string>
+    <string name="bytedesk_get_chat_code">客服代码</string>
+    <string name="bytedesk_update_welcometip">修改欢迎语</string>
+    <string name="bytedesk_update_password">修改密码</string>
+    <string name="bytedesk_update_nickname">修改昵称</string>
+    <string name="bytedesk_leavemessage_reply">回复留言</string>
+    <string name="bytedesk_payment">续费延期</string>
+
+    <string name="bytedesk_scan">扫描二维码</string>
+    <string name="bytedesk_qrcode">二维码</string>
+
+    <string name="bytedesk_webrtc">音视频通话</string>
+
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_unsupported">不支持错误</string>
+    <string name="errcode_unknown">发送返回</string>
+
+    <!--联系人-->
+    <string name="contact_new_friends">新朋友</string>
+    <string name="contact_groups">群聊</string>
+    <string name="contact_tags">标签</string>
+    <string name="contact_channels">频道</string>
+
+    <!-- 关于界面 -->
+    <string name="about_title">关于</string>
+    <string name="about_url">https://www.weikefu.net</string>
+    <string name="about_item_homepage">萝卜丝: www.weikefu.net</string>
+    <string name="about_item_download">下载新版手机客服端App</string>
+    <string name="about_item_download_url">https://www.liangshibao.com/download_kefu.html</string>
+    <string name="about_item_github">GitHub</string>
+    <string name="about_copyright">© %1$s 萝卜丝 bytedesk.com All rights reserved.</string>
+
+    <string name="privacy">https://cdn.bytedesk.com/pages/privacy.html</string>
+    <string name="protocal">https://cdn.bytedesk.com/pages/protocal.html</string>
+    <string name="privacy_check_toast">请阅读用户协议和隐私策略，如果同意，请勾选并点击继续</string>
+
+    <!--signal-->
+    <string name="RegistrationActivity_terms_and_privacy">Terms &amp; Privacy Policy</string>
+    <string name="xpush_xiaomi_client_name">com.bytedesk.push.xiaomi.XiaoMiPushClient</string>
+
+
+</resources>
