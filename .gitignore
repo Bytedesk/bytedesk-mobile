@@ -32,3 +32,4 @@ pubspec.lock
 key.properties
 signed-key
 upload-keystore.jks
+android/readme.md
