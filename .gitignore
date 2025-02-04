@@ -33,3 +33,4 @@ android/key.properties
 android/signed-key
 android/upload-keystore.jks
 android/readme.md
+.DS_Store
